@@ -1,0 +1,4 @@
+in this module , the discusssion about the uses of devtool with lots of option, shorcuts and the way of debugging in the devtol.
+visit :
+
+chrome devtool console api
